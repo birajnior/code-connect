@@ -6,3 +6,12 @@ body {
   min-height: 100vh;
   color: aliceblue;
 }
+
+.app-container {
+  width: 996px;
+  max-width: 90%;
+  margin: 56px auto;
+  height: 100vh;
+  display: flex;
+  gap: 28px;
+}
