@@ -1,9 +1,10 @@
+import SearchBar from "@/components/SearchBar";
 
 
 export default function Home() {
   return (
-    <main>
-      Olá mundo!
+    <main className="main">
+      <SearchBar />
     </main>
   );
 }
