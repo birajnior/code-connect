@@ -9,7 +9,7 @@ export default function CardPost({ post }) {
         <div className={style.cardGeral}>
           <figure className={`${style.figure}`}>
             <Image
-              src={post.cover}
+              src={post.cover || "/fallback-image.png"}
               width={438}
               height={133}
               className={`card-img-top ${style.cardImg}`}
@@ -23,7 +23,11 @@ export default function CardPost({ post }) {
         <p className={`${style.p}`}>{post.body}</p>
       </section>
       <footer className={`${style.footer}`}>
-        <Avatar imageSRC={post.author.avatar} name={post.author.name} />
+        {post.author ? (
+          <Avatar imageSRC={post.author.avatar} name={post.author.name} />
+        ) : (
+          <p>Autor desconhecido</p>
+        )}
       </footer>
     </article>
   );

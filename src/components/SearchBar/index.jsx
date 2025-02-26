@@ -2,7 +2,7 @@ import style from "./search-bar.module.css";
 
 export default function SearchBar() {
   return (
-    <div className={`input-group ${style.searchEstilizado}`}>
+    <div className={`input-group mb-3 ${style.searchEstilizado}`}>
       <input
         className={`form-control ${style.searchIcon} ${style.searchInput}`}
         type="search"
