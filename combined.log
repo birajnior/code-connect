@@ -1,1 +1,155 @@
 {"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"error","message":"Erro ao buscar os posts: cache is not defined","stack":"ReferenceError: cache is not defined\n    at getAllPosts (webpack-internal:///(rsc)/./src/components/CardList/index.jsx:15:13)\n    at CardList (webpack-internal:///(rsc)/./src/components/CardList/index.jsx:34:25)\n    at react-stack-bottom-frame (D:\\Arquivos\\meus-projetos\\nextjs\\code-connect\\node_modules\\next\\dist\\compiled\\next-server\\app-page.runtime.dev.js:114:85218)\n    at AsyncLocalStorage.run (node:internal/async_local_storage/async_hooks:91:14)\n    at renderFunctionComponent (D:\\Arquivos\\meus-projetos\\nextjs\\code-connect\\node_modules\\next\\dist\\compiled\\next-server\\app-page.runtime.dev.js:114:17089)\n    at renderElement (D:\\Arquivos\\meus-projetos\\nextjs\\code-connect\\node_modules\\next\\dist\\compiled\\next-server\\app-page.runtime.dev.js:114:29262)\n    at renderModelDestructive (D:\\Arquivos\\meus-projetos\\nextjs\\code-connect\\node_modules\\next\\dist\\compiled\\next-server\\app-page.runtime.dev.js:114:30243)\n    at retryTask (D:\\Arquivos\\meus-projetos\\nextjs\\code-connect\\node_modules\\next\\dist\\compiled\\next-server\\app-page.runtime.dev.js:114:53720)\n    at outlineTask (D:\\Arquivos\\meus-projetos\\nextjs\\code-connect\\node_modules\\next\\dist\\compiled\\next-server\\app-page.runtime.dev.js:114:20655)\n    at renderFunctionComponent (D:\\Arquivos\\meus-projetos\\nextjs\\code-connect\\node_modules\\next\\dist\\compiled\\next-server\\app-page.runtime.dev.js:114:16324)\n    at renderElement (D:\\Arquivos\\meus-projetos\\nextjs\\code-connect\\node_modules\\next\\dist\\compiled\\next-server\\app-page.runtime.dev.js:114:29262)\n    at renderModelDestructive (D:\\Arquivos\\meus-projetos\\nextjs\\code-connect\\node_modules\\next\\dist\\compiled\\next-server\\app-page.runtime.dev.js:114:30243)\n    at D:\\Arquivos\\meus-projetos\\nextjs\\code-connect\\node_modules\\next\\dist\\compiled\\next-server\\app-page.runtime.dev.js:114:22596\n    at Array.toJSON (D:\\Arquivos\\meus-projetos\\nextjs\\code-connect\\node_modules\\next\\dist\\compiled\\next-server\\app-page.runtime.dev.js:114:23691)\n    at stringify (<anonymous>)\n    at emitChunk (D:\\Arquivos\\meus-projetos\\nextjs\\code-connect\\node_modules\\next\\dist\\compiled\\next-server\\app-page.runtime.dev.js:114:53484)\n    at retryTask (D:\\Arquivos\\meus-projetos\\nextjs\\code-connect\\node_modules\\next\\dist\\compiled\\next-server\\app-page.runtime.dev.js:114:54139)\n    at outlineTask (D:\\Arquivos\\meus-projetos\\nextjs\\code-connect\\node_modules\\next\\dist\\compiled\\next-server\\app-page.runtime.dev.js:114:20655)\n    at renderFunctionComponent (D:\\Arquivos\\meus-projetos\\nextjs\\code-connect\\node_modules\\next\\dist\\compiled\\next-server\\app-page.runtime.dev.js:114:16324)\n    at renderElement (D:\\Arquivos\\meus-projetos\\nextjs\\code-connect\\node_modules\\next\\dist\\compiled\\next-server\\app-page.runtime.dev.js:114:29262)\n    at renderModelDestructive (D:\\Arquivos\\meus-projetos\\nextjs\\code-connect\\node_modules\\next\\dist\\compiled\\next-server\\app-page.runtime.dev.js:114:30243)\n    at D:\\Arquivos\\meus-projetos\\nextjs\\code-connect\\node_modules\\next\\dist\\compiled\\next-server\\app-page.runtime.dev.js:114:22596\n    at Array.toJSON (D:\\Arquivos\\meus-projetos\\nextjs\\code-connect\\node_modules\\next\\dist\\compiled\\next-server\\app-page.runtime.dev.js:114:23691)\n    at stringify (<anonymous>)\n    at emitChunk (D:\\Arquivos\\meus-projetos\\nextjs\\code-connect\\node_modules\\next\\dist\\compiled\\next-server\\app-page.runtime.dev.js:114:53484)\n    at retryTask (D:\\Arquivos\\meus-projetos\\nextjs\\code-connect\\node_modules\\next\\dist\\compiled\\next-server\\app-page.runtime.dev.js:114:54139)\n    at performWork (D:\\Arquivos\\meus-projetos\\nextjs\\code-connect\\node_modules\\next\\dist\\compiled\\next-server\\app-page.runtime.dev.js:114:55589)\n    at AsyncLocalStorage.run (node:internal/async_local_storage/async_hooks:91:14)\n    at D:\\Arquivos\\meus-projetos\\nextjs\\code-connect\\node_modules\\next\\dist\\compiled\\next-server\\app-page.runtime.dev.js:114:90179\n    at node:internal/process/task_queues:151:7\n    at AsyncResource.runInAsyncScope (node:async_hooks:211:14)\n    at AsyncResource.runMicrotask (node:internal/process/task_queues:148:8)"}
+{"level":"error","message":"Erro ao buscar os posts: Request constructor: no is not an accepted type. Expected one of default, no-store, reload, no-cache, force-cache, only-if-cached.","stack":"TypeError: Request constructor: no is not an accepted type. Expected one of default, no-store, reload, no-cache, force-cache, only-if-cached.\n    at webidl.errors.exception (node:internal/deps/undici/undici:3610:14)\n    at Object.RequestInit (node:internal/deps/undici/undici:3854:35)\n    at new Request (node:internal/deps/undici/undici:9569:34)\n    at dedupeFetch (webpack-internal:///(rsc)/./node_modules/next/dist/server/lib/dedupe-fetch.js:103:87)\n    at doOriginalFetch (webpack-internal:///(rsc)/./node_modules/next/dist/server/lib/patch-fetch.js:419:24)\n    at eval (webpack-internal:///(rsc)/./node_modules/next/dist/server/lib/patch-fetch.js:677:24)\n    at async getAllPosts (webpack-internal:///(rsc)/./src/components/CardList/index.jsx:14:26)\n    at async CardList (webpack-internal:///(rsc)/./src/components/CardList/index.jsx:34:19)"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"error","message":"Erro ao buscar os posts: totalPages is not defined","stack":"ReferenceError: totalPages is not defined\n    at getAllPosts (webpack-internal:///(rsc)/./src/components/CardList/index.jsx:33:13)\n    at async CardList (webpack-internal:///(rsc)/./src/components/CardList/index.jsx:41:19)"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 2 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 2 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 2 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 2 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 2 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 2 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 2 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 2 obtidos com sucesso"}
+{"level":"info","message":"Posts da página 1 obtidos com sucesso"}

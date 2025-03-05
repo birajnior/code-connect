@@ -18,7 +18,6 @@ body {
   width: 996px;
   max-width: 90%;
   margin: 56px auto;
-  height: 100vh;
   display: flex;
   gap: 28px;
 }
